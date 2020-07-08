@@ -1,1 +1,1 @@
-# Codes-of-Python
+# Face Extraction from Scanned Newspapers zip file
